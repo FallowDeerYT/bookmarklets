@@ -1,2 +1,1 @@
-# Bookmarklets
-_Live counter: 50_
+md\n# Bookmarklets\n\nA curated collection of lightweight JavaScript bookmarklets, organized by category for quick access and easy use.\n\nWebsite: [projects.fallowdeer.eu/bookmarklets](https://projects.fallowdeer.eu/bookmarklets)\n\n© Fallow Deer 2026 — [fallowdeer.eu](https://fallowdeer.eu)\n
